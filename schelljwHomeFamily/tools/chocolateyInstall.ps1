@@ -15,6 +15,8 @@ try
     cinst 7zip
     cinst sumatraPDF
     cinst notepadplusplus
+    cinst displayFusion
+    cinst doPDF
 
     cinst flashplayeractivex 
     cinst flashplayerplugin 
